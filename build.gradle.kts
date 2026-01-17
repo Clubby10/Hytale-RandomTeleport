@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.clubby"
-version = "0.1.0"
+version = "1.0.0"
 val javaVersion = 25
 
 val appData = System.getenv("APPDATA") ?: (System.getenv("HOME") + "/.var/app/com.hypixel.HytaleLauncher/data")
