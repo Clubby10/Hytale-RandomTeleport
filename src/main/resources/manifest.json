@@ -1,7 +1,7 @@
 {
   "Group": "Clubby",
   "Name": "RandomTeleport",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Main": "com.clubby.randomteleport.RandomTeleportPlugin",
   "Description": "Adds /wild random teleport",
   "Authors": [{ "Name": "clubby" }]
