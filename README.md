@@ -1,4 +1,4 @@
-# 🧭 Hytale Random Teleport
+# 🧭 Hytale Random Teleport (Archived Outdated)
 
 A simple Hytale plugin that adds a `/wild` command to teleport players to a random location in the world.
 
